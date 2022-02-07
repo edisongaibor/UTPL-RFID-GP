@@ -16,9 +16,9 @@ CRUD  para simulación de librería RFID
 
 <h2> Despliegue - Creación de administradores - Migraciónes </h2>
 <h3>Migración de proyecto a MySQL</h3>
-1. Desde el terminal de Visual Studio hacer las migraciónes con el comando 'python manage.py migrate'
-2. <h3>Crear administrador</h3>
-3.Crear el administrador con el comando: 'python manage.py create superuser'
+Desde el terminal de Visual Studio hacer las migraciónes con el comando 'python manage.py migrate'
+<h3>Crear administrador</h3>
+Crear el administrador con el comando: 'python manage.py create superuser'
 <h3>Despliegue de app web</h3>
-4. Desplegar la pagina desde la raiz (sistema) en el server mediante el comando: 'python manage.py runserver '
+Desplegar la pagina desde la raiz (sistema) en el server mediante el comando: 'python manage.py runserver '
 
